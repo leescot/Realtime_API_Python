@@ -1,0 +1,6 @@
+asyncio
+websockets
+pyaudio
+numpy
+python-dotenv
+websocket-client

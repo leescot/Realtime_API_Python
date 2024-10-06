@@ -4,3 +4,4 @@ pyaudio
 numpy
 python-dotenv
 websocket-client
+streamlit

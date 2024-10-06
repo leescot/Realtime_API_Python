@@ -32,7 +32,7 @@ This project implements a real-time audio processing system using the OpenAI API
    ```
    python code_01.py
    ```
-or
+   or
    ```
    python code_02.py
    ```
@@ -40,7 +40,7 @@ or
 
 4. Speak into your microphone. The script will capture your audio, send it to the OpenAI API, and play back the response in real-time.
 
-5. To stop the program, use the keyboard interrupt (Ctrl+C).
+5. To stop the program, use the keyboard interrupt (Ctrl+C or Ctrl+Break).
 
 ## Important Notes
 

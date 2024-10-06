@@ -1,4 +1,4 @@
-# modiflied code of https://github.com/personabb/OpenAI_RealtimeAPI_Python_SampleCode
+# modiflied code of https://github.com/personabb/OpenAI_RealtimeAPI_Python_SampleCode (blog: https://zenn.dev/asap/articles/4368fd306b592a )
 
 import asyncio
 import websockets

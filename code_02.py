@@ -171,7 +171,7 @@ class RealtimeAPIClient:
                 "type": "session.update",  # Event type
                 "session": {
                     "modalities": ["text", "audio"],  # Supported modalities
-                    "instructions": "Your knowledge cutoff is 2023-10. Assist the user with their requests.",
+                    "instructions": "請說台灣繁體中文",
                     "voice": self.voice,   # Voice model to use
                     "input_audio_format": "pcm16",  # Input audio format
                     "output_audio_format": "pcm16",  # Output audio format
